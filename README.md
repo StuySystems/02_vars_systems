@@ -4,4 +4,4 @@
 
 to run:
 
-> ./vars.c
+> ./vars
